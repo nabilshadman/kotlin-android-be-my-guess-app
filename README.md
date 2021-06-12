@@ -3,7 +3,7 @@ An Android app of a number guessing game, developed with Kotlin and Android Stud
 
 Tasks accomplished:
 
-(1) Created project and ran test with Appetize
+(1) Created project and ran test with Appetize.io
 
 (2) Laid out all visual elements
 
