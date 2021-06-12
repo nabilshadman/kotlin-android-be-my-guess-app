@@ -5,8 +5,7 @@ Check out the app here!
 https://appetize.io/app/eqwdpwq956j1vqvbvu9zhvawaw  
   
     
-Tasks accomplished:
-
+Tasks accomplished:  
 (1) Created project and ran test with Appetize.io  
 (2) Laid out all visual elements  
 (3) Generated answer  
