@@ -1,11 +1,9 @@
-# kotlin-android-be-my-guess-app
-An Android app of a number guessing game, developed with Kotlin and Android Studio
+# Be My Guess App
+An **Android** app of a number guessing game, developed with Kotlin and Android Studio.  
 
-Check out the app here!  
-https://appetize.io/app/eqwdpwq956j1vqvbvu9zhvawaw  
+Check out the app [here](https://appetize.io/app/eqwdpwq956j1vqvbvu9zhvawaw)!
   
-    
-Tasks accomplished:  
+**Tasks** accomplished:  
 (1) Created project and ran test with Appetize.io  
 (2) Laid out all visual elements  
 (3) Generated answer  
