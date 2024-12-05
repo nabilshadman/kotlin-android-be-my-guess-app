@@ -2,9 +2,11 @@
 
 A modern, intuitive number guessing game developed with Kotlin and Android Studio, demonstrating Android development best practices and clean architecture principles.
 
-<a href="https://appetize.io/app/eqwdpwq956j1vqvbvu9zhvawaw">
-  <img src="demo/2_start.jpg" width="200" alt="App Demo">
-</a>
+<div align="center">
+  <a href="https://appetize.io/app/eqwdpwq956j1vqvbvu9zhvawaw">
+    <img src="demo/2_start.jpg" width="200" alt="App Demo">
+  </a>
+</div>
 
 ## Overview
 
